@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\programacion 1.4\obj\Debug\netcoreapp3.1\programacion 1.4.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\programacion 1.4\obj\Debug\netcoreapp3.1\programacion 1.4.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\programacion 1.4\obj\Debug\netcoreapp3.1\programacion 1.4.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\programacion 1.4\bin\Debug\netcoreapp3.1\programacion 1.4.exe
+C:\Users\Usuario\source\repos\programacion 1.4\bin\Debug\netcoreapp3.1\programacion 1.4.deps.json
+C:\Users\Usuario\source\repos\programacion 1.4\bin\Debug\netcoreapp3.1\programacion 1.4.runtimeconfig.json
+C:\Users\Usuario\source\repos\programacion 1.4\bin\Debug\netcoreapp3.1\programacion 1.4.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\programacion 1.4\bin\Debug\netcoreapp3.1\programacion 1.4.dll
+C:\Users\Usuario\source\repos\programacion 1.4\bin\Debug\netcoreapp3.1\programacion 1.4.pdb
+C:\Users\Usuario\source\repos\programacion 1.4\obj\Debug\netcoreapp3.1\programacion 1.4.dll
+C:\Users\Usuario\source\repos\programacion 1.4\obj\Debug\netcoreapp3.1\programacion 1.4.pdb
